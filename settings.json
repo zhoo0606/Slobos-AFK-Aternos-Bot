@@ -6,9 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tuffkings.aternos.me
-",
-    "port": 53695,
++    "ip": "tuffkings.aternos.me",
++    "port": 53695,
     "version": "",
     "try-creative": false
   },
